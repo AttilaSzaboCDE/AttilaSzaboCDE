@@ -14,6 +14,13 @@ Few things:
 
 Below you will see my technical skills that I have acquired in the projects.
 
+
+## My Projects:
+
+
+
+
+
 ## Tech Stack skills:
 ### Cloud:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
