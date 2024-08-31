@@ -1,7 +1,7 @@
 # Hi, My name is Attila 😁👋
 
 ## About Me
-I'm a **Computer Science Engineer** student at Óbuda University. My specialization is **Cloud Services and IT Security** at school. 
+I'm a **Computer Science Engineer** student at Óbuda University. My specialization is **Cloud Services and IT Security**. 
 I want to be a **Cloud/DevOps Engineer**, where i can managing the infrastructure and support the software development lifecycle.
 I am learning **AWS and Azure Cloud Providers** in my free time. I really like the linux platform and also I'm using an unix system the MacOS everyday.
 
