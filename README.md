@@ -16,9 +16,7 @@ Below you will see my technical skills that I have acquired in the projects.
 
 
 ## My Projects:
-
-
-
+- <a href="https://github.com/AttilaSzaboSWE/Number-plate-recognition-system/tree/main"> Number Plate Recognition System</a>
 
 
 ## Tech Stack skills:
