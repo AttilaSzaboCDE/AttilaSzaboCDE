@@ -5,7 +5,7 @@ I'm a **Computer Science Engineer** student at Óbuda University. My specializat
 I want to be a **Cloud/DevOps Engineer**, where i can managing the infrastructure and support the software development lifecycle.
 I am learning **AWS and Azure Cloud Providers** in my free time. I really like the linux platform and also I'm using an unix system the MacOS everyday.
 
-I will make own projects, where  I can learn a lot, to become a Cloud DevOps Engineer and try to develop myself.
+I make own projects, where  I can learn a lot, to become a Cloud DevOps Engineer and try to develop myself.
 
 Few things:
 - 💻 Working on my own projects using **Python**, **AWS** and **YAML**.
