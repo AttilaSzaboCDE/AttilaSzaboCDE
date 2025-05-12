@@ -8,7 +8,7 @@ I am learning **AWS and Azure Cloud Providers** in my free time. I really like t
 I make own projects, where  I can learn a lot, to become a Cloud DevOps Engineer and try to develop myself.
 
 Few things:
-- 💻 Working on my own projects using **Python**, **AWS** and **YAML**.
+- 💻 Working on my own projects using **Python**, **Azure** and **Bash**.
 - 📝 Write documentation about what i learnt to Notion
 - ⏰ I dont like the doing nothing situation, so I'm looking for something to occupy myself with
 
