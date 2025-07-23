@@ -14,6 +14,12 @@ Few things:
 
 Below you will see my technical skills that I have acquired in the projects.
 
+## Certificates:
+<img width="150" height="150" alt="hashicorp-certified-terraform-associate-003-2" src="https://github.com/user-attachments/assets/f14be36a-c3c7-4e43-8e30-5944294952cc" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/da28ad01-87b8-451d-af49-958aa88c64e5" />
+<img width="150" height="150" alt="CCNAITN__1_" src="https://github.com/user-attachments/assets/1546e24f-ef4c-44b6-99b2-22ac20c5279a" />
+<img width="150" height="150" alt="CCNASRWE__1_" src="https://github.com/user-attachments/assets/6989575d-dae0-45f1-84c2-dadceeda229c" />
+<img width="150" height="150" alt="CCNAENSA__1_" src="https://github.com/user-attachments/assets/23fbf55d-2c0a-486e-a04a-933411583448" />
 
 ## My Projects:
 - <a href="https://github.com/AttilaSzaboSWE/Number-plate-recognition-system/tree/main"> Number Plate Recognition System</a>
