@@ -17,11 +17,18 @@ Below you will see my technical skills that I have acquired in the projects.
 ## Certificates:
 <img width="150" height="150" alt="hashicorp-certified-terraform-associate-003-2" src="https://github.com/user-attachments/assets/f14be36a-c3c7-4e43-8e30-5944294952cc" />
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/da28ad01-87b8-451d-af49-958aa88c64e5" />
-<img width="150" height="150" alt="CCNAITN__1_" src="https://github.com/user-attachments/assets/1546e24f-ef4c-44b6-99b2-22ac20c5279a" />
-<img width="150" height="150" alt="CCNASRWE__1_" src="https://github.com/user-attachments/assets/6989575d-dae0-45f1-84c2-dadceeda229c" />
-<img width="150" height="150" alt="CCNAENSA__1_" src="https://github.com/user-attachments/assets/23fbf55d-2c0a-486e-a04a-933411583448" />
+
+## Incoming Certificates:
+<img width="150" height="150" alt="twitter_thumb_201604_azure-administrator-associate-600x600" src="https://github.com/user-attachments/assets/29f9e908-73ec-4f12-b312-e5dae4754db6" />
+<img width="150" height="150" alt="az-305-logo" src="https://github.com/user-attachments/assets/8ce21a9d-ed11-4cc2-bbf1-20b1b71fdc2a" />
+<img width="150" height="150" alt="AWS-SysOps-Badge" src="https://github.com/user-attachments/assets/8b9eba43-8263-4823-815f-dc725550a9b4" />
+<img width="150" height="150" alt="image-2" src="https://github.com/user-attachments/assets/9adf8ff3-97fe-43ae-86cb-d84263f6f9d9" />
+<img width="150" height="150" alt="cka_from_cncfsite__281_29" src="https://github.com/user-attachments/assets/ccd10e63-b2d3-4d3a-8017-57d76c61970b" />
+<img width="150" height="150" alt="image-3" src="https://github.com/user-attachments/assets/42259d81-076e-4690-a445-d65ce41237ff" />
 
 ## My Projects:
+
+
 - <a href="https://github.com/AttilaSzaboSWE/Number-plate-recognition-system/tree/main"> Number Plate Recognition System</a>
 - <a href="https://github.com/AttilaSzaboCDE/skyfix"> SkyFix - Cloud Automation System</a>
 
