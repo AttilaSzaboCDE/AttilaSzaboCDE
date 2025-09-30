@@ -31,6 +31,8 @@ Below you will see my technical skills that I have acquired in the projects.
 
 - <a href="https://github.com/AttilaSzaboSWE/Number-plate-recognition-system/tree/main"> Number Plate Recognition System</a>
 - <a href="https://github.com/AttilaSzaboCDE/skyfix"> SkyFix - Cloud Automation System</a>
+- <a> New Cloud Project incoming - **2026 Q2** </a>
+- <a> New Automated Project incoming - **2026 Q3** </a>
 
 
 ## Tech Stack skills:
