@@ -24,7 +24,6 @@ Below you will see my technical skills that I have acquired in the projects.
 <img width="150" height="150" alt="AWS-SysOps-Badge" src="https://github.com/user-attachments/assets/8b9eba43-8263-4823-815f-dc725550a9b4" />
 <img width="150" height="150" alt="image-2" src="https://github.com/user-attachments/assets/9adf8ff3-97fe-43ae-86cb-d84263f6f9d9" />
 <img width="150" height="150" alt="cka_from_cncfsite__281_29" src="https://github.com/user-attachments/assets/ccd10e63-b2d3-4d3a-8017-57d76c61970b" />
-<img width="150" height="150" alt="image-3" src="https://github.com/user-attachments/assets/42259d81-076e-4690-a445-d65ce41237ff" />
 
 ## My Projects:
 
