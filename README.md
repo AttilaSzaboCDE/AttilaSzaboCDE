@@ -30,6 +30,7 @@ Below you will see my technical skills that I have acquired in the projects.
 - <a href="https://github.com/AttilaSzaboSWE/Number-plate-recognition-system/tree/main"> Number Plate Recognition System</a>
 - <a href="https://github.com/AttilaSzaboCDE/skyfix"> SkyFix - Cloud Automation System</a>
 - <a href="https://github.com/AttilaSzaboCDE/InfraLens"> InfraLens - IaC Vizualization tool</a> - Release: **2026 Q3**
+- <a href="https://github.com/AttilaSzaboCDE/skill-boost"> SkillBoost- A website for OE students</a> - Release: **2026 Q4**
 
 
 ## Tech Stack skills:
