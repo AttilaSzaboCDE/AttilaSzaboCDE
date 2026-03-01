@@ -21,7 +21,9 @@ Below you will see my technical skills that I have acquired in the projects.
 ## Incoming Certificates:
 <img width="150" height="150" alt="twitter_thumb_201604_azure-administrator-associate-600x600" src="https://github.com/user-attachments/assets/29f9e908-73ec-4f12-b312-e5dae4754db6" />
 <img width="150" height="150" alt="az-305-logo" src="https://github.com/user-attachments/assets/8ce21a9d-ed11-4cc2-bbf1-20b1b71fdc2a" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/310cc9a4-6aa0-4ae7-9fc3-49c52ee2e42b" />
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/d9e55a06-9662-4825-9e43-c3eb1b8e8b99" />
+<img width="150" height="150" alt="AWS-Certified-DevOps-Engineer-Professional_badge" src="https://github.com/user-attachments/assets/f529e037-ba99-4ce2-8938-f14d2ae523cc" />
 <img width="150" height="150" alt="cka_from_cncfsite__281_29" src="https://github.com/user-attachments/assets/ccd10e63-b2d3-4d3a-8017-57d76c61970b" />
 
 ## My Projects:
