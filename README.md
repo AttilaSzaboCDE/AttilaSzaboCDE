@@ -1,9 +1,9 @@
 # Hi, My name is Attila 😁👋
 
 ## About Me
-I'm a **Computer Science Engineer** student at Óbuda University. My specialization is **Cloud Services and IT Security**. 
-I want to be a **Cloud/DevOps Engineer**, where i can manage the infrastructure and support the software development lifecycle.
-I am learning **AWS and Azure Cloud Providers** in my free time. I really like the linux platform and also I'm using an unix system the MacOS everyday.
+I'm a **Computer Science Engineer**. My specialization is **Cloud Services and IT Security**. 
+I am working as a **CI/CD Developer**, where i can manage the infrastructure and support the software development lifecycle.
+I am learning **Azure and Openstack clouds** in my free time. I really like the linux platform and also I'm using an unix system the MacOS everyday.
 
 I make own projects, where  I can learn a lot, to become a Cloud DevOps Engineer and try to develop myself.
 
@@ -25,13 +25,8 @@ Below you will see my technical skills that I have acquired in the projects.
 <img width="150" height="150" alt="cka_from_cncfsite__281_29" src="https://github.com/user-attachments/assets/ccd10e63-b2d3-4d3a-8017-57d76c61970b" />
 
 ## My Projects:
-
-
 - <a href="https://github.com/AttilaSzaboSWE/Number-plate-recognition-system/tree/main"> Number Plate Recognition System</a>
 - <a href="https://github.com/AttilaSzaboCDE/skyfix"> SkyFix - Cloud Automation System</a>
-- <a href="https://github.com/AttilaSzaboCDE/InfraLens"> InfraLens - IaC Vizualization tool</a> - Release: **2026 Q3**
-- <a href="https://github.com/AttilaSzaboCDE/skill-boost"> SkillBoost- A website for OE students</a> - Release: **2026 Q4**
-
 
 ## Tech Stack skills:
 ### Cloud:
@@ -49,33 +44,11 @@ Below you will see my technical skills that I have acquired in the projects.
  ### Virtualization:
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
- ### DevOps Tools:
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+ ### CI/CD:
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
  
  ### Monitoring:
  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
  ### Network:
  ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Juniper](https://img.shields.io/badge/Juniper-%23005F73.svg?style=for-the-badge&logo=junipernetworks&logoColor=white) ![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white) ![Arista](https://img.shields.io/badge/Arista-%23285F9A.svg?style=for-the-badge&logo=arista&logoColor=white)
-
- ### OS:
- ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)	![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
- 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**AttilaSzaboSWE/AttilaSzaboSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
