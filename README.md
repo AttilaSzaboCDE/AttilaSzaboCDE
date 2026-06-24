@@ -19,9 +19,9 @@ Below you will see my technical skills that I have acquired in the projects.
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/da28ad01-87b8-451d-af49-958aa88c64e5" />
 
 ## Incoming Certificates:
+<img width="150" height="150" alt="twitter_thumb_201604_azure-ai-fundamentals-600x600" src="https://github.com/user-attachments/assets/28909eee-1021-4362-94e0-d47170cc44ef" />
 <img width="150" height="150" alt="twitter_thumb_201604_azure-administrator-associate-600x600" src="https://github.com/user-attachments/assets/29f9e908-73ec-4f12-b312-e5dae4754db6" />
 <img width="150" height="150" alt="azure-devops-engineer-expert-certwizard" src="https://github.com/user-attachments/assets/f5e878af-eb6a-4a12-9ba9-b5e16ac1f46e" />
-<img width="150" height="150" alt="aws-" src="https://github.com/user-attachments/assets/5461bdab-2745-49e2-87da-afb7a75f795b" />
 <img width="150" height="150" alt="cka_from_cncfsite__281_29" src="https://github.com/user-attachments/assets/ccd10e63-b2d3-4d3a-8017-57d76c61970b" />
 
 ## My Projects:
